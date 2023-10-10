@@ -3,5 +3,6 @@
 
     <!-- Strings related to Login Fragment -->
     <string name="login">Entrar</string>
+    <string name="email_invalid">Insira um email válido</string>
 
 </resources>
